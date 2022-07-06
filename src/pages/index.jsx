@@ -11,13 +11,13 @@ import Spinner from "../components/spinner";
 const Home = () => {
   return (
     <>
-      {/* <Hero />
+      <Hero />
       <AboutSection />
       <MV />
       <Services />
       <Team />
       <Properties />
-      <CustomerReview /> */}
+      <CustomerReview />
       <Spinner />
     </>
   );
